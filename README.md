@@ -6,10 +6,10 @@ Az alábbi részletes útmutató segít a projekt telepítésében és futtatás
 ### **1. Szükséges eszközök telepítése**
 - **Visual Studio 2022**:
   - Töltse le a legújabb verziót a Visual Studio hivatalos weboldaláról.
-  - Telepítéskor válassza ki az *ASP.NET és webfejlesztési* munkaterhelést. Ha már telepítve van, ellenőrizze az *Eszközök > Eszközök és szolgáltatások lekérése* menüpontban, hogy ez a munkaterhelés elérhető-e[1][3].
+  - Telepítéskor válassza ki az *ASP.NET és webfejlesztési* munkaterhelést. Ha már telepítve van, ellenőrizze az *Eszközök > Eszközök és szolgáltatások lekérése* menüpontban, hogy ez a munkaterhelés elérhető-e.
 - **XAMPP Control Panel**:
   - Töltse le és telepítse a XAMPP-ot a hivatalos weboldalról (ajánlott hely: `C:\xampp`).
-  - A telepítés után indítsa el a `xampp-control.exe` fájlt, amely lehetővé teszi az Apache és MySQL szolgáltatások kezelését[4].
+  - A telepítés után indítsa el a `xampp-control.exe` fájlt, amely lehetővé teszi az Apache és MySQL szolgáltatások kezelését.
 - **Microsoft Edge böngésző**:
   - Győződjön meg róla, hogy telepítve van a legfrissebb verzió.
 
