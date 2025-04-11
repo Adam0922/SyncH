@@ -1,3 +1,6 @@
+Lépésről-lépésre útmutató a projekt működtetéséhez
+Az alábbi lépések részletesen bemutatják, hogyan kell telepíteni és elindítani a projektet. 
+
 Kövesse az alábbi lépéseket:
 1. Szükséges eszközök telepítése
 •	Visual Studio 2022: Telepítse a legújabb verziót, amely támogatja az ASP.NET Core és React projekteket.
