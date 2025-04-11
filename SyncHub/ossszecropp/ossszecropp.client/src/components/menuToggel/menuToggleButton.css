@@ -1,0 +1,8 @@
+.trigger-btn{
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 10px;
+    left: 10px;
+}

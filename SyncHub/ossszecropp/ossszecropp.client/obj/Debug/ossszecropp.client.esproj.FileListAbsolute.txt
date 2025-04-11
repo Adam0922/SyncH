@@ -1,0 +1,8 @@
+C:\CROP,PROBA\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.client\obj\Debug\ossszecropp.client.esproj.CoreCompileInputs.cache

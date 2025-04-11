@@ -1,0 +1,59 @@
+
+.dark-mode .ant-table {
+    background-color: #292A2A !important;
+    color: white !important;
+}
+
+.light-mode .ant-table {
+    background-color: white !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-thead > tr > th {
+    background-color: #515151 !important;
+    color: white !important;
+}
+
+.light-mode .ant-table-thead > tr > th {
+    background-color: #EEEEEE !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-tbody > tr:hover {
+    background-color: #FFFFFF !important;
+    color: black !important;
+}
+
+.light-mode .ant-table-tbody > tr:hover {
+    background-color: #FEFEFE !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table {
+    background-color: #292A2A !important;
+    color: white !important;
+}
+
+.light-mode .ant-table {
+    background-color: white !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-thead > tr > th {
+    background-color: #515151 !important;
+    color: white !important;
+}
+
+.light-mode .ant-table-thead > tr > th {
+    background-color: #EEEEEE !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-tbody > tr:hover {
+    background-color: #FFFFFF !important;
+}
+
+.light-mode .ant-table-tbody > tr:hover {
+    background-color: #FEFEFE !important;
+    color: black !important;
+}

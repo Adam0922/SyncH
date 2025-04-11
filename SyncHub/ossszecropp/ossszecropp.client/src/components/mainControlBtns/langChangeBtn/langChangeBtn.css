@@ -1,0 +1,13 @@
+.lang-chng-btn {
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+}
+
+.lang-span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+}

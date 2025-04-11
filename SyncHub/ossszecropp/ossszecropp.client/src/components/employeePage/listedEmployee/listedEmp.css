@@ -1,0 +1,60 @@
+﻿.dark-mode .ant-table {
+    background-color: #292A2A !important;
+    color: white !important;
+}
+
+.light-mode .ant-table {
+    background-color: white !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-thead > tr > th {
+    background-color: #515151 !important;
+    color: white !important;
+}
+
+.light-mode .ant-table-thead > tr > th {
+    background-color: #EEEEEE !important;
+    color: black !important;
+}
+
+/* S�t�t m�d hover */
+.dark-mode .ant-table-tbody > tr:hover {
+    background-color: #FFFFFF !important; /* Enyh�n vil�gosabb sz�n */
+    color: black !important;
+}
+
+/* Vil�gos m�d hover */
+.light-mode .ant-table-tbody > tr:hover {
+    background-color: #FEFEFE !important; /* Enyh�n s�t�tebb sz�n */
+    color: black !important;
+}
+
+.dark-mode .ant-table {
+    background-color: #292A2A !important;
+    color: white !important;
+}
+
+.light-mode .ant-table {
+    background-color: white !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-thead > tr > th {
+    background-color: #515151 !important;
+    color: white !important;
+}
+
+.light-mode .ant-table-thead > tr > th {
+    background-color: #EEEEEE !important;
+    color: black !important;
+}
+
+.dark-mode .ant-table-tbody > tr:hover {
+    background-color: #FFFFFF !important;
+}
+
+.light-mode .ant-table-tbody > tr:hover {
+    background-color: #FEFEFE !important;
+    color: black !important;
+}

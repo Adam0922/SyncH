@@ -1,0 +1,14 @@
+﻿/* employeePage.css */
+/*.full-height-layout {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    background-color: #f7f7f7;*/ /* Add this line */
+/*}
+
+.content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    height: 100%;*/ /* Ensure content matches the height of the parent */
+/*}*/

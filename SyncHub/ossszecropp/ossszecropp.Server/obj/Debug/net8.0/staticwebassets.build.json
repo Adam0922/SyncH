@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "Hash": "WeHqLCiygNNV8tlVhF1Wr9dsZS4V4aDZG/XJdGOYJ30=",
+  "Source": "ossszecropp.Server",
+  "BasePath": "_content/ossszecropp.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\ossszecropp.client.esproj",
+      "Version": 2,
+      "Source": "ossszecropp.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ossszecropp.Server\\wwwroot",
+      "Source": "ossszecropp.Server",
+      "ContentRoot": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\",
+      "BasePath": "_content/ossszecropp.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg",
+      "SourceId": "ossszecropp.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\",
+      "BasePath": "_content/ossszecropp.Server",
+      "RelativePath": "uploads/profiles/97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1fptrvv3ep",
+      "Integrity": "E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\profiles\\97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg",
+      "SourceId": "ossszecropp.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\",
+      "BasePath": "_content/ossszecropp.Server",
+      "RelativePath": "uploads/profiles/b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300)#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1fptrvv3ep",
+      "Integrity": "E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\profiles\\b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "uploads/profiles/97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).1fptrvv3ep.jpg",
+      "AssetFile": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 12:59:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1fptrvv3ep"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/profiles/97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/profiles/97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg",
+      "AssetFile": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 12:59:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/profiles/b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).1fptrvv3ep.jpg",
+      "AssetFile": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 14:48:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1fptrvv3ep"
+        },
+        {
+          "Name": "label",
+          "Value": "uploads/profiles/b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g="
+        }
+      ]
+    },
+    {
+      "Route": "uploads/profiles/b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg",
+      "AssetFile": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22723"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 05 Apr 2025 14:48:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E1OdyfA/HJ2rEkTOKABmF/KsWpSk+IdV41L7tMMKx0g="
+        }
+      ]
+    }
+  ]
+}

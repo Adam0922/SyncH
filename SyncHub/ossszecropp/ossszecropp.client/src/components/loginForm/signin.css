@@ -1,0 +1,41 @@
+.signin-card {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-width: 40vh;
+    border: #14213d solid 1px;
+    z-index: 1000;
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-form {
+    min-width: 20vh;
+}
+
+.id-input {
+    margin: 10px 0 18px 0;
+    width: 35vh;
+}
+
+.input-form {
+    min-width: 35vh;
+    border: #14213d solid 1px;
+    margin: 0;
+    background-color: white;
+}
+
+.btn-form {
+    border: #14213d solid 1px;
+    color: #415a77;
+}
+
+.form-divider {
+    opacity: 1;
+    margin: 10px 0;
+}

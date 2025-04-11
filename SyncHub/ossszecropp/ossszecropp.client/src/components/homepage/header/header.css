@@ -1,0 +1,26 @@
+.header {
+    padding-top: 0.7em;
+    background: #fff;
+}
+
+.notificationBtn {
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+}
+
+.settingsBtn {
+    border: none;
+    box-shadow: none;
+    background-color: transparent;
+}
+
+.avatarBtn {
+    border: solid #343a40 1px;
+    box-shadow: none;
+    border-radius: 50%;
+}
+
+.wlc-typ {
+    margin-top: 5px;
+}

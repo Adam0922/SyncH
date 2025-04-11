@@ -1,0 +1,7 @@
+/* staffTable.css */
+.staff-table-container {
+    margin-top: -1vh;
+    max-height: 400px;
+/*    overflow: auto;
+*/    padding: 16px;
+}

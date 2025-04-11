@@ -1,0 +1,38 @@
+{
+  "name": "ossszecropp.client",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "VITE_DEBUG=true vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+
+  "dependencies": {
+    "@hcaptcha/react-hcaptcha": "^1.12.0",
+    "axios": "^0.21.1",
+    "antd": "^5.23.0",
+    "moment": "^2.29.1",
+    "jwt-decode": "^3.1.2",
+    "prop-types": "^15.7.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^7.1.1",
+    "recharts": "^2.15.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.17.0",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^9.17.0",
+    "eslint-plugin-react": "^7.37.2",
+    "eslint-plugin-react-hooks": "^5.0.0",
+    "eslint-plugin-react-refresh": "^0.4.16",
+    "globals": "^15.14.0",
+    "vite": "^6.0.5"
+  }
+
+}

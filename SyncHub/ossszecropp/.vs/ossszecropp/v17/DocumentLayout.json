@@ -1,0 +1,394 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB836809-2565-4417-9DCC-E00777937A1F}|ossszecropp.Server\\ossszecropp.Server.csproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AB836809-2565-4417-9DCC-E00777937A1F}|ossszecropp.Server\\ossszecropp.Server.csproj|solutionrelative:ossszecropp.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB836809-2565-4417-9DCC-E00777937A1F}|ossszecropp.Server\\ossszecropp.Server.csproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.server\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB836809-2565-4417-9DCC-E00777937A1F}|ossszecropp.Server\\ossszecropp.Server.csproj|solutionrelative:ossszecropp.server\\models\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB836809-2565-4417-9DCC-E00777937A1F}|ossszecropp.Server\\ossszecropp.Server.csproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.server\\controllers\\incomescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB836809-2565-4417-9DCC-E00777937A1F}|ossszecropp.Server\\ossszecropp.Server.csproj|solutionrelative:ossszecropp.server\\controllers\\incomescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\utils\\axiosinstance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\utils\\axiosinstance.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\profilpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\profilpage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\main.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\homepage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\equipmentspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\equipmentspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\docspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\docspage.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\collapsedcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\collapsedcontext.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\employeepage\\listedemployee\\listedemployee.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\employeepage\\listedemployee\\listedemployee.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\employeepage\\empdetails\\empdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\employeepage\\empdetails\\empdetails.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\employeepage\\employeepagecnt.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\employeepage\\employeepagecnt.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\homepage\\content\\equipmentlistcard\\equiplist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\homepage\\content\\equipmentlistcard\\equiplist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\profilpage\\datacard\\datacard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\profilpage\\datacard\\datacard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\documentstable\\documentstable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\documentstable\\documentstable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\equipmentspage\\eqpagecnt.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\equipmentspage\\eqpagecnt.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\equipmentstable\\equipmentstable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\equipmentstable\\equipmentstable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\proempcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\proempcard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\projectemployecard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\profilpage\\projectemployecard\\projectemployecard.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|c:\\users\\imre234\\pictures\\synchub\\synchub\\ossszecropp\\ossszecropp.client\\src\\components\\equipmentspage\\eqtable\\eqtable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}|ossszecropp.client\\ossszecropp.client.esproj|solutionrelative:ossszecropp.client\\src\\components\\equipmentspage\\eqtable\\eqtable.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 148,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ossszecropp.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\appsettings.json",
+              "RelativeToolTip": "ossszecropp.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-11T19:11:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\Models\\Income.cs",
+              "RelativeDocumentMoniker": "ossszecropp.Server\\Models\\Income.cs",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\Models\\Income.cs",
+              "RelativeToolTip": "ossszecropp.Server\\Models\\Income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:07:37.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IncomesController.cs",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\Controllers\\IncomesController.cs",
+              "RelativeDocumentMoniker": "ossszecropp.Server\\Controllers\\IncomesController.cs",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\Controllers\\IncomesController.cs",
+              "RelativeToolTip": "ossszecropp.Server\\Controllers\\IncomesController.cs",
+              "ViewState": "AgIAAAQAAACAaWZmZuYcwA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T19:03:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\.gitignore",
+              "RelativeDocumentMoniker": "ossszecropp.client\\.gitignore",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\.gitignore",
+              "RelativeToolTip": "ossszecropp.client\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-04-11T18:52:30.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "profilPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\profilPage.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\profilPage.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\profilPage.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\profilPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:40:58.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\main.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\main.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\main.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\main.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:40:57.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomePage.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\HomePage.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\HomePage.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\HomePage.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\HomePage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:40:56.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "equipmentsPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\equipmentsPage.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\equipmentsPage.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\equipmentsPage.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\equipmentsPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:40:55.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "docsPage.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\docsPage.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\docsPage.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\docsPage.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\docsPage.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:40:55.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "collapsedContext.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\collapsedContext.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\collapsedContext.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\collapsedContext.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\collapsedContext.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:40:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\App.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T18:35:22.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "axiosInstance.js",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\utils\\axiosInstance.js",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\utils\\axiosInstance.js",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\utils\\axiosInstance.js",
+              "RelativeToolTip": "ossszecropp.client\\src\\utils\\axiosInstance.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-04-11T18:50:59.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "listedEmployee.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\employeePage\\listedEmployee\\listedEmployee.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\employeePage\\listedEmployee\\listedEmployee.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\employeePage\\listedEmployee\\listedEmployee.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\employeePage\\listedEmployee\\listedEmployee.jsx",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T05:23:31.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "employeePageCnt.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\employeePage\\employeePageCnt.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\employeePage\\employeePageCnt.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\employeePage\\employeePageCnt.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\employeePage\\employeePageCnt.jsx",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T05:22:52.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "empDetails.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\employeePage\\empDetails\\empDetails.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\employeePage\\empDetails\\empDetails.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\employeePage\\empDetails\\empDetails.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\employeePage\\empDetails\\empDetails.jsx",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAFIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T05:16:56.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "equipList.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\homepage\\content\\equipmentListCard\\equipList.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\homepage\\content\\equipmentListCard\\equipList.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\homepage\\content\\equipmentListCard\\equipList.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\homepage\\content\\equipmentListCard\\equipList.jsx",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywFgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T05:15:52.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dataCard.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\dataCard\\dataCard.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\profilPage\\dataCard\\dataCard.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\dataCard\\dataCard.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\profilPage\\dataCard\\dataCard.jsx",
+              "ViewState": "AgIAAMQAAAAA2szMzMwkwLoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T04:18:29.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "documentsTable.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\documentsTable\\documentsTable.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\documentsTable\\documentsTable.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\documentsTable\\documentsTable.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\documentsTable\\documentsTable.jsx",
+              "ViewState": "AgIAAN4AAAAA0GZmZmb+v+kAAACSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T04:10:42.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "equipmentsTable.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\equipmentsTable\\equipmentsTable.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\equipmentsTable\\equipmentsTable.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\equipmentsTable\\equipmentsTable.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\equipmentsTable\\equipmentsTable.jsx",
+              "ViewState": "AgIAAOAAAAAA2v///38swAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T04:06:36.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "proEmpCard.css",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\proEmpCard.css",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\proEmpCard.css",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\proEmpCard.css",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\proEmpCard.css",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-11T04:04:59.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "eqPageCnt.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\equipmentsPage\\eqPageCnt.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\equipmentsPage\\eqPageCnt.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\equipmentsPage\\eqPageCnt.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\equipmentsPage\\eqPageCnt.jsx",
+              "ViewState": "AgIAAB8AAAAAZ2ZmZmYOwCsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T04:03:43.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "eqTable.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\equipmentsPage\\eqTable\\eqTable.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\equipmentsPage\\eqTable\\eqTable.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\equipmentsPage\\eqTable\\eqTable.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\equipmentsPage\\eqTable\\eqTable.jsx",
+              "ViewState": "AgIAAMUAAAAA/v////8SwMsAAADMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T03:53:13.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "projectEmployeCard.jsx",
+              "DocumentMoniker": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\projectEmployeCard.jsx",
+              "RelativeDocumentMoniker": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\projectEmployeCard.jsx",
+              "ToolTip": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\projectEmployeCard.jsx",
+              "RelativeToolTip": "ossszecropp.client\\src\\components\\profilPage\\ProjectEmployeCard\\projectEmployeCard.jsx",
+              "ViewState": "AgIAAAwAAADAaGZmZiYwwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-04-11T03:52:45.301Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

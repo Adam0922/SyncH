@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ossszecropp.Server", "ossszecropp.Server\ossszecropp.Server.csproj", "{AB836809-2565-4417-9DCC-E00777937A1F}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "ossszecropp.client", "ossszecropp.client\ossszecropp.client.esproj", "{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB836809-2565-4417-9DCC-E00777937A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB836809-2565-4417-9DCC-E00777937A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB836809-2565-4417-9DCC-E00777937A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB836809-2565-4417-9DCC-E00777937A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CC49A96-C06C-4FDD-87FB-1A92AEED8168}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

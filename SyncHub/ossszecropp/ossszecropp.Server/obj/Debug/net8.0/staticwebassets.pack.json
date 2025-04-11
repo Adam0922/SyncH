@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\97ce79a1-e0c8-4ba6-834a-2c2201944c68_CompressJPEG.Online_img(300x300).jpg"
+    },
+    {
+      "Id": "C:\\Users\\Imre234\\Pictures\\SyncHub\\SyncHub\\ossszecropp\\ossszecropp.Server\\wwwroot\\uploads\\profiles\\b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg",
+      "PackagePath": "staticwebassets\\uploads\\profiles\\b34a8b9f-b371-4403-953b-4f0c9bf6b206_CompressJPEG.Online_img(300x300).jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ossszecropp.Server.props",
+      "PackagePath": "build\\ossszecropp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ossszecropp.Server.props",
+      "PackagePath": "buildMultiTargeting\\ossszecropp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ossszecropp.Server.props",
+      "PackagePath": "buildTransitive\\ossszecropp.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

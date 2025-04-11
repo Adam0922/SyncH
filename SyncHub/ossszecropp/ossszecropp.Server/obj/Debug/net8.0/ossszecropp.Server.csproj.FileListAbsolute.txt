@@ -1,0 +1,1187 @@
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\CROP,PROBA\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\CROP,PROBA\cropp\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EVVEGIMAPPA\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\EVVEGIMAPPA\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.runtime.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.runtime.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MailKit.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MimeKit.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.Tests\obj\ossszecropp.Server.Tests.csproj.nuget.dgspec.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.Tests\obj\project.assets.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Castle.Core.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\FluentAssertions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Moq.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Moq.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testhost.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testhost.exe
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.api.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.core.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Platform.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.framework.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testhost.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.Tests\obj\ossszecropp.Server.Tests.csproj.nuget.dgspec.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.Tests\obj\project.assets.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.api.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.core.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testhost.exe
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.runtime.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Castle.Core.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\FluentAssertions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MailKit.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Platform.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MimeKit.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Moq.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Moq.EntityFrameworkCore.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.framework.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\EVVEGIMAPPA\2025.04.05-profilePic\SyncHub 00 (9)\SyncHub 00 (2)\SyncHub 00\SyncHub (3)\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testhost.exe
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testhost.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\appsettings.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.Tests\obj\ossszecropp.Server.Tests.csproj.nuget.dgspec.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.Tests\obj\project.assets.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\testcentric.engine.metadata.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\spa.proxy.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.runtime.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.staticwebassets.endpoints.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.exe
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.deps.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.runtimeconfig.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ossszecropp.Server.pdb
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\FluentAssertions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MailKit.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.ApplicationInsights.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.Telemetry.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.TrxReport.Abstractions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.VSTestBridge.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Platform.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.Testing.Extensions.MSBuild.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CoreUtilities.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.TestPlatform.Utilities.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Moq.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Moq.EntityFrameworkCore.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.framework.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\nunit.framework.legacy.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.Telemetry.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.VSTestBridge.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Platform.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.Testing.Extensions.MSBuild.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.AssemblyReference.cache
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\spa.proxy.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfoInputs.cache
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.AssemblyInfo.cs
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.csproj.CoreCompileInputs.cache
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.sourcelink.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\scopedcss\bundle\ossszecropp.Server.styles.css
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.ossszecropp.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.ossszecropp.Server.props
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ossszecropp.Server.props
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ossszecropp.Server.props
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecr.6179B8AA.Up2Date
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\refint\ossszecropp.Server.dll
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.pdb
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ossszecropp.Server.genruntimeconfig.cache
+C:\Users\Imre234\Pictures\SyncHub\SyncHub\ossszecropp\ossszecropp.Server\obj\Debug\net8.0\ref\ossszecropp.Server.dll
